@@ -1,4 +1,4 @@
-module github.com/ericchiang/pup
+module github.com/mikeabreu/pup
 
 go 1.13
 
